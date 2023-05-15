@@ -5,3 +5,5 @@ keep writing to the end
 let keep study every day
 
 I want to put whatever I want to
+
+editor: add - commit - push - fetch - pull
